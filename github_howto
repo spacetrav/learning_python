@@ -17,3 +17,6 @@ Push to Github.com:
 Connecting to a folder on GitHub:
 - run the command $ git remote add origin [copied web address]
 - then perform the push $ git push origin master
+
+Great resource:
+https://www.datree.io/resources/git-error-fatal-remote-origin-already-exists
