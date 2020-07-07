@@ -1,0 +1,22 @@
+Initializing a repository:
+- navigate to the folder in terminal and enter $ git init 
+
+Check status:
+- enter $ git status
+
+Add files to the repository:
+- $ git add .
+
+Make a commit:
+- git commit -am "message"
+- the "a" tells Git to add all modified files to the current commit
+
+Push to Github.com:
+- $ git push origin master
+
+Connecting to a folder on GitHub:
+- run the command $ git remote add origin [copied web address]
+- then perform the push $ git push origin master
+
+test
+changecha
